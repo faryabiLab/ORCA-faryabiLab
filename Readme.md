@@ -1,5 +1,9 @@
 # Analysis Routines for Optical Reconstruction of Chromatin Architecture 
 
+## This is a fork by Faryabi Lab at U. of PA
+August 2022
+Forked so we can make small changes and keep them tracked.
+
 ## Welcome
 This repository contains code written primarily in Matlab for the analysis of microscopy data for optical reconstruction of chromatin architecture as described in our manuscript on Optical Reconstruction of Chromatin Architecture (Mateo et al 2019, Nature) and the updated version of this code provided with our protocol paper (in review).  
 
